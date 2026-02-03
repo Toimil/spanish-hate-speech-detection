@@ -110,6 +110,11 @@ Reader discretion is advised, as some content may be disturbing or offensive. Ou
 
 ---
 
+## 📜 License
+
+This project is licensed under the GNU General Public License v3 – see the LICENSE file for details.
+
+---
 
 ## 📬 Contact 
 
